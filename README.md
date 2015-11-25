@@ -40,7 +40,11 @@ Mulai:
 
 ![start server](https://raw.githubusercontent.com/siagung/CI_Redis_Realtime_Antrian_Bank/master/assets/image/client.png)
 
-``untuk informasi tambahan , check -> http://github.com/vanuganti/realtime
+-Informasi tambahan ,
+
+`Realtime Socket.io -> http://github.com/vanuganti/realtime`
+
+`Codeigniter Redis Library -> https://github.com/joelcox/codeigniter-redis`
 
 
 
