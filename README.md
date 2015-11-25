@@ -24,7 +24,7 @@ Mulai:
 
    1. buka folder hasil ekstrak
    2. buka folder node.js
-   3. jalan server -> node server.js
+   3. jalankan server -> node server.js
    4. buka browser masukan *)root folder hasil ekstrak ke alamat browser
    5. buka di tab/browser baru root folder/node.js/client.html
 
