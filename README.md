@@ -48,9 +48,10 @@ Mulai:
 Informasi Tambahan:
 -------------------
 
-`Realtime Socket.io -> http://github.com/vanuganti/realtime`
 
-`Codeigniter Redis Library -> https://github.com/joelcox/codeigniter-redis`
+`Realtime Socket.io -> http://github.com/vanuganti/realtime` [Realtime Node.js, Socket.io & Redis](http://github.com/vanuganti/realtime)
+
+`Codeigniter Redis Library -> https://github.com/joelcox/codeigniter-redis` [Redis Library](https://github.com/joelcox/codeigniter-redis)
 
 
 
