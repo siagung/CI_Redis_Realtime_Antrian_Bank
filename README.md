@@ -27,7 +27,18 @@ Mulai:
 
 *) `root folder hasil ekstrak repo ini => CI_Redis_Realtime_Antrian_Bank-master`
 
-![solarized palette](https://github.com/altercation/solarized/raw/master/img/solarized-palette.png)
+`Start server.js`
+
+![start server](https://raw.githubusercontent.com/siagung/CI_Redis_Realtime_Antrian_Bank/master/assets/image/start-server.png)
+
+
+`Panggilan`
+
+![start server](https://raw.githubusercontent.com/siagung/CI_Redis_Realtime_Antrian_Bank/master/assets/image/panggil.png)
+
+`Client`
+
+![start server](https://raw.githubusercontent.com/siagung/CI_Redis_Realtime_Antrian_Bank/master/assets/image/panggil.png)
 
 ``untuk informasi tambahan , check -> http://github.com/vanuganti/realtime
 
