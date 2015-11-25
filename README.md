@@ -19,10 +19,13 @@ Mulai:
 
 - Clone the git repo kemudian ekstrak ke folder root http
 
-    $ buka folder hasil ekstrak
-    $ buka folder node.js
-    $ jalan server - > node server.js
-    $ buka browser masukan root folder hasil ekstrak ke alamat browser
+   1. buka folder hasil ekstrak
+   2. buka folder node.js
+   3. jalan server -> node server.js
+   4. buka browser masukan *)root folder hasil ekstrak ke alamat browser
+   5. buka di tab/browser baru root folder/node.js/client.html
+
+*) `root folder hasil ekstrak repo ini => CI_Redis_Realtime_Antrian_Bank-master`
 
 
 
