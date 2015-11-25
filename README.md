@@ -38,7 +38,7 @@ Mulai:
 
 `Client`
 
-![start server](https://raw.githubusercontent.com/siagung/CI_Redis_Realtime_Antrian_Bank/master/assets/image/panggil.png)
+![start server](https://raw.githubusercontent.com/siagung/CI_Redis_Realtime_Antrian_Bank/master/assets/image/client.png)
 
 ``untuk informasi tambahan , check -> http://github.com/vanuganti/realtime
 
