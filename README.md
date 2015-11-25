@@ -27,7 +27,7 @@ Mulai:
 
 *) `root folder hasil ekstrak repo ini => CI_Redis_Realtime_Antrian_Bank-master`
 
-
+![solarized palette](https://github.com/altercation/solarized/raw/master/img/solarized-palette.png)
 
 ``untuk informasi tambahan , check -> http://github.com/vanuganti/realtime
 
