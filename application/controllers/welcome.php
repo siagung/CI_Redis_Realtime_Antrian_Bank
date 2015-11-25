@@ -70,60 +70,60 @@ class Welcome extends CI_Controller {
         //$this->redis->set('realtime', $this->input->post('cmd'));
         $this->load->view('welcome_message',$this->data);
     }
-    public function zephirTest()
-    {
-        echo Utils\Greeting::say(), "\n";
-    }
-    public function zephirTest2()
-    {
-        $f = new Utils\Filter();
-        $f->alpha("agung susanto");
-
-    }
-
-    public function zephirTest3()
-    {
-        $f = new Utils\Filter();
-        echo $f->alpha2("agung susanto");
-
-    }
-
-
-    public function zephirTest4()
-    {
-        $f = new Utils\Filter();
-
-        echo $f->alpha3("agung susanto!he#02l3'121lo.");
-
-    }
-    public function zephirTest5()
-    {
-        $f = new Utils\Filter();
-
-        echo $f->hitung(5);
-
-    }
-
-    public function zephirTest6()
-    {
-        $f = new Utils\Filter();
-
-        $f->testvar();
-
-        $b = 100;
-        $a = "b";
-        echo $$a; // prints 100
-
-    }
-
-    public function zephirTest7()
-    {
-        $f = new Utils\Filter();
-
-
-        echo $f->testvar2();
-
-    }
+//    public function zephirTest()
+//    {
+//        echo Utils\Greeting::say(), "\n";
+//    }
+//    public function zephirTest2()
+//    {
+//        $f = new Utils\Filter();
+//        $f->alpha("agung susanto");
+//
+//    }
+//
+//    public function zephirTest3()
+//    {
+//        $f = new Utils\Filter();
+//        echo $f->alpha2("agung susanto");
+//
+//    }
+//
+//
+//    public function zephirTest4()
+//    {
+//        $f = new Utils\Filter();
+//
+//        echo $f->alpha3("agung susanto!he#02l3'121lo.");
+//
+//    }
+//    public function zephirTest5()
+//    {
+//        $f = new Utils\Filter();
+//
+//        echo $f->hitung(5);
+//
+//    }
+//
+//    public function zephirTest6()
+//    {
+//        $f = new Utils\Filter();
+//
+//        $f->testvar();
+//
+//        $b = 100;
+//        $a = "b";
+//        echo $$a; // prints 100
+//
+//    }
+//
+//    public function zephirTest7()
+//    {
+//        $f = new Utils\Filter();
+//
+//
+//        echo $f->testvar2();
+//
+//    }
 
 
 

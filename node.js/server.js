@@ -22,8 +22,8 @@ if (!module.parent) {
     const socket  = io.listen(server);
 
     socket.on('connection', function(client) {
-        const subscribe = redis.createClient()
-        const subscribe2 = redis.createClient()
+        const subscribe = redis.createClient();
+        const subscribe2 = redis.createClient();
         subscribe.subscribe('realtime');
 
         subscribe.on("message", function(channel, message) {

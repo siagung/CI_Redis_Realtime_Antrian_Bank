@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 	<meta charset="utf-8">
-	<title>Welcome to Jasa Raharja</title>
+	<title>Welcome to Antrian BAnk</title>
 
 	<style type="text/css">
 
@@ -161,12 +161,12 @@
             return obj;
         }
     </script>
-    <script type="text/javascript" src="http://127.0.0.1:8085/socket.io/socket.io.js"></script>
+    <script type="text/javascript" src="http://localhost:8085/socket.io/socket.io.js"></script>
     <script type="text/javascript">
 
         var socket = null;
 
-            socket = io.connect('http://127.0.0.1:8085/');
+            socket = io.connect('http://localhost:8085/');
 
             socket.on('connect', function(data){
                 setStatus('connected');
