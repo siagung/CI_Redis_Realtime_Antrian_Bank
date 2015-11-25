@@ -1,5 +1,6 @@
-Pangillan Bank Realtime Codeigniter - Node.js, Socket.IO & Redis
-================================================================
+Pangilan Antrian Bank Realtime
+Codeigniter, Node.js, Socket.IO & Redis
+=======================================
 
 Kebutuhan:
 -------------
